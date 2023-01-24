@@ -1,0 +1,81 @@
+#preview-cont{
+    margin: 1rem auto;
+
+    width: 750px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+#preview-label{
+    display: block;
+
+    border: 1px solid black;
+    box-shadow: px 1px 2px 2px;
+    margin-top: 2rem;
+    padding: 10px;
+
+    font-size: 17px;
+    font-weight: 900;
+
+    
+    background-color:rgba(74,163,163,255) ;
+}
+
+#preview{
+    
+    display: block;
+    width:100%;
+    min-height: 150px;
+    background-color: rgba(192,216,216,255);
+    
+    resize: vertical;
+    padding: 10px;
+
+}
+
+#preview h1,h2,h3,h4,h5{
+    text-decoration: underline;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin:10px;
+
+}
+
+#preview p{
+    padding: 5px;
+    margin-left: 1rem;
+    margin-top:0.5rem;
+}
+
+#preview code{
+    background-color: white;
+}
+
+#preview blockquote{
+    padding-left: px;
+    margin-left: 25px;
+    border-left: 5px solid black;
+}
+
+#preview  td,th,tbody{
+
+    border: 2px solid black;
+    width: auto;
+    padding: 5px;
+}
+
+#preview li{
+    padding: 5px;
+    margin-top: 1rem;
+    margin-left: 3rem;
+}
+
+#preview pre {
+    background-color: white;
+    padding:5px;
+    margin: 1rem;
+}
+
+#preview img{
+    width: 100%;
+    margin-top: 2rem;
+}
