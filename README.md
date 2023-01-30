@@ -1,5 +1,4 @@
 # freeCoderCamp-Projects
-this repo will hold my projects for freeCoderCamp
+this repo will hold my projects for freeCoderCamp. Tho it contains 2 projects I'll share only random quote generators link in here 
 
-
-gotta learn how to use .gitignore I thought node modules werent going here but they are here
+https://frkanyilmaz2.github.io/freeCoderCamp-Projects/
